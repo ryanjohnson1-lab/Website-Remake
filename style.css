@@ -26,4 +26,29 @@ body {
     border-style: dotted;
     border-color: #004643;
     border-width: 15px;
+    padding: 2%;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 5px;
+    display:inline-block;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin: 5px;
+    display:inline-block;
+}
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    display:inline-block;
 }
